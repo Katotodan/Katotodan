@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katotodan
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in web programming (frontend and backend)
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on some web project and I am looking for a web development job
 - 📫 How to reach me katotodan@gmail.com 
 
